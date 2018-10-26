@@ -1,4 +1,4 @@
-## :desktop: Api de registro de usuarios
+## :desktop_computer: Api de registro de usuarios
 **Ejemplo de api utilizando nodejs y mysql**
 
 Para comenzar a utilizar la aplicación, primero debes de instalar las dependencias:
